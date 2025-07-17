@@ -1,8 +1,9 @@
 # Churn-Customer-Prediction
 # 👤 About Me | معرفی من
 
-Name :Melody Mousavi 
-Company:SedraPro
+-Name :Melody Mousavi 
+
+-Company:SedraPro
 
 ---
 
