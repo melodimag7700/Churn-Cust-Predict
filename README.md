@@ -63,31 +63,24 @@ General Steps of the Project:
     - b. Comparing the accuracy of the models and selecting the optimal model
 12. Complete Documentation of the Project
 
-#📁 Files
- \- Churn_Customer.ipynb – Classical ML models notebook and DNN implementation
+# 📂 Files & Notebooks
 
-- Note: This is Jupyter Notebook (.ipynb) developed and executed in Google Colab.
+- **Churn_Customer.ipynb**  
+  Classical ML models and DNN implementation in a Jupyter Notebook  
+  _Developed and executed in Google Colab_
 
-\- Churn_Customer.py – Classical ML models notebook and DNN implementation
-
-- Note: This is Python File (.py) developed in vs.code and need you install:
-
-1-pip install pandas
-
-2-pip install numpy
-
-3-pip install matplotlib
-
-4-pip install seaborn
-
-5-pip install scipy
-
-6-pip install sklearn
-
-7-pip install xgboost
-
-8-pip install tensorflow
-         
+- **Churn_Customer.py**  
+  Script with classical ML models and DNN implemented as a Python file  
+  _Developed in VS Code_  
+  **Requirements:**  
+  - pandas  
+  - numpy  
+  - matplotlib  
+  - seaborn  
+  - scipy  
+  - scikit-learn  
+  - xgboost  
+  - tensorflow
     
 
 
