@@ -25,7 +25,9 @@ This  repository explores customer churn prediction using a churn_modelling.csv 
 
 ---
 
-# 🚩 Project Workflow
+
+
+# 🔍  Project Workflow
 
 General Steps of the Project:
 
@@ -62,4 +64,6 @@ General Steps of the Project:
 12. Complete Documentation of the Project
     
 
+
+🔍 
 
