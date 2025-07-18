@@ -26,8 +26,8 @@ This  repository explores customer churn prediction using a churn_modelling.csv 
 
 General Steps of the Project:
 1.	Importing and Initial Exploration of the Dataset
-o	a. Importing the initial data from the CSV file
-o	b. Exploring the general information of the DataFrame and identifying missing values using tables and Heatmap visualization
+-o	a. Importing the initial data from the CSV file
+-o	b. Exploring the general information of the DataFrame and identifying missing values using tables and Heatmap visualization
 2.	Outlier Detection and Removal
 o	a. Identifying numerical and non-numerical columns
 o	b. Calculating the Interquartile Range (IQR) to detect outliers
